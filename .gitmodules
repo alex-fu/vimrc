@@ -1,0 +1,12 @@
+[submodule "sources_forked/vim-misc"]
+	path = sources_forked/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "sources_forked/vim-easytags"]
+	path = sources_forked/vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
+[submodule "sources_forked/vim-airline"]
+	path = sources_forked/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "sources_forked/vim-scala"]
+	path = sources_forked/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
